@@ -40,11 +40,16 @@ const About = () => {
             </div>
 
             <p className="text-base text-slate-200 mb-2">
-              N.Dip. Information Technology: Software Development (Final Year)
+              N.Dip. Information Technology: Software Development
             </p>
-            <p className="text-sm text-slate-300 mb-5">
-              Current GPA: 3.31 / 4.0
+            <p className="text-sm text-slate-300 mb-2">
+              GPA: 3.31 / 4.0
             </p>
+            <div className="mb-5">
+              <span className="inline-block px-3 py-1 bg-pink-700/30 border border-pink-600/50 text-pink-400 text-xs font-semibold rounded-full">
+                🎓 Completed with 3 Distinctions
+              </span>
+            </div>
 
             <div className="space-y-3">
               <div>
