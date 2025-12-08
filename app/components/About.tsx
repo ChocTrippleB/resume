@@ -47,7 +47,7 @@ const About = () => {
             </p>
             <div className="mb-5">
               <span className="inline-block px-3 py-1 bg-pink-700/30 border border-pink-600/50 text-pink-400 text-xs font-semibold rounded-full">
-                🎓 Completed with 3 Distinctions
+                🎓 Completed with 9 Distinctions
               </span>
             </div>
 
